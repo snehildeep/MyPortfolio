@@ -5,7 +5,7 @@ export const Bio = {
     "Motivated and ambitious third-year college student passionate about Coding. With a strong foundation in C++ , Web Development  , I am eager to make a meaningful impact in the IT sector through my dedication, creativity, and collaborative spirit. ",
   github: "https://github.com/snehildeep",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1Zphxyowi73GU2SDX9olLI7bFbS15JeFA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/snehil-deep-1090b1224/",
   insta: "https://www.instagram.com/snehil_deep/",
 };
